@@ -31,7 +31,7 @@ Guest
 * phone_number - String
 
 Table
-* ID - Primary Key
+* ID - Primary Key 
 * Capacity - Integer
 
 Reservation
